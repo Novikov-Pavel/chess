@@ -1,4 +1,8 @@
-![License](https://img.shields.io/github/license/Novikov-Pavel/myPizza.svg?style=for-the-badge) ![Repo Size](https://img.shields.io/github/languages/code-size/Novikov-Pavel/myPizza.svg?style=for-the-badge) ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/Novikov-Pavel/myPizza.svg?style=for-the-badge) ![FORKS](https://img.shields.io/github/forks/Novikov-Pavel/myPizza.svg?style=for-the-badge&social) ![Stars](https://img.shields.io/github/stars/Novikov-Pavel/myPizza.svg?style=for-the-badge)
+![License](https://img.shields.io/github/license/Novikov-Pavel/chess.svg?style=for-the-badge) 
+![Repo Size](https://img.shields.io/github/languages/code-size/Novikov-Pavel/chess.svg?style=for-the-badge) 
+![TOP_LANGUAGE](https://img.shields.io/github/languages/top/Novikov-Pavel/chess.svg?style=for-the-badge) 
+![FORKS](https://img.shields.io/github/forks/Novikov-Pavel/chess.svg?style=for-the-badge&social) 
+![Stars](https://img.shields.io/github/stars/Novikov-Pavel/chess.svg?style=for-the-badge)
     
 # Chess
 
@@ -30,7 +34,7 @@
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/Novikov-Pavel/chess/master/2023-08-02_17-40-23.png" />
+<img src="https://raw.githubusercontent.com/Novikov-Pavel/chess/master/2023-08-02_17-40-23.png" alt="скрин" />
 
 ## Built With
 
@@ -42,9 +46,6 @@
 </a>
 <a href="https://sass-lang.com/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="40px" width="40px" alt="SASS" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40px" width="40px" alt="CSS" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40px" width="40px" alt="HTML" />
@@ -61,7 +62,7 @@
 
 ### Prerequisites
 
-1. Установите среду разработки VS Code (https://code.visualstudio.com/download) или любую другую.
+1. Установите среду разработки [VS Code](https://code.visualstudio.com/download) или любую другую.
 2. Установите терминал или используйте встроенный в VS Code. 
 
 ### Installation
